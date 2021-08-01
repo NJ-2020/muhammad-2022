@@ -5,7 +5,8 @@
 - 📫 How to reach me email me to: muhammadaljufri113@gmail.com
 
 <br/>
-<div align="center">
+<div>
+  <h2>Language and Tools</h2>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"

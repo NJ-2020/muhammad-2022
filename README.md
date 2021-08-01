@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning in react js
 - 💞️ I’m looking to collaborate on alkhairat
 - 📫 How to reach me email me to: muhammadaljufri113@gmail.com
-- I am From Indonesia
 
 <!---
 Muhammad-Aljufri/Muhammad-Aljufri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

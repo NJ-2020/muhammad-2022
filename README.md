@@ -28,6 +28,10 @@
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ladangtekno.com%2F2019%2F08%2Fdownload-dan-install-visual-studio-code.html&psig=AOvVaw1m8nf8eFJ5wC8dmbTwOAxC&ust=1627898122609000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCjtZ_Hj_ICFQAAAAAdAAAAABAD"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
     width="60px"
   />

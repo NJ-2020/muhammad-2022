@@ -4,37 +4,14 @@
 - 💞️ I’m looking to collaborate on alkhairat
 - 📫 How to reach me email me to: muhammadaljufri113@gmail.com
 
-<br/>
 <div>
-  <h2>Language and Tools</h2>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
-    width="60px"
-    />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ladangtekno.com%2F2019%2F08%2Fdownload-dan-install-visual-studio-code.html&psig=AOvVaw1m8nf8eFJ5wC8dmbTwOAxC&ust=1627898122609000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCjtZ_Hj_ICFQAAAAAdAAAAABAD"
-    width="60px"
-  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-    width="60px"
-  />
+  <h2>Languages, Frameworks & Libraries</h2>
+  <br />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <h2>Tools</h2>
+ <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   <br />
   <br />
   <img

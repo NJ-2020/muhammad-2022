@@ -1,30 +1,32 @@
-- 👋 Hi, I’m @Muhammad-Aljufri
-- 👀 I’m interested in Web devolopment
-- 🌱 I’m currently learning in react js
-- 💞️ I’m looking to collaborate on alkhairat
-- 📫 How to reach me email me to: muhammadaljufri113@gmail.com
+<h1>Hi 👋, I'm Muhammad</h1>
+<h3>I am a Full Stack Engineer</h3>
 
-<div>
-  <h2>Languages, Frameworks & Libraries</h2>
-  <br />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-aljufri" alt="muhammad-aljufri" /></a> </p>
 
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <h2>Tools</h2>
- <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
-  <br />
-  <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Aljufri&show_icons=true&theme=react&&hide_border=true"
-  />
-  <br />
-  <br />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Aljufri&&theme=react&&hide_border=true"
-  />
-</div>
+- 🌱 I’m currently learning in **The Oding Project**
 
-<!---
-Muhammad-Aljufri/Muhammad-Aljufri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👯 I’m looking to collaborate on **The Odin Project**
+
+- 📫 How to reach me Email: **muhammadaljufri113@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@muhammad-aljufri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@muhammad-aljufri" height="30" width="40" /></a>
+<a href="https://dev.to/muhammadaljufri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhammadaljufri" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:16574637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16574637" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammadaljufri113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadaljufri113" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sayyid muhammad a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyid muhammad a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-aljufri&show_icons=true&locale=en&layout=compact" alt="muhammad-aljufri" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammad-aljufri&show_icons=true&locale=en" alt="muhammad-aljufri" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-aljufri&" alt="muhammad-aljufri" /></p>

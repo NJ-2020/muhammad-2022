@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-aljufri" alt="muhammad-aljufri" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?muhammad-2022=ryo-ma" alt="muhammad-aljufri" /></a> </p>
-
-- 🌱 I’m currently learning in **The Oding Project**
+- 🌱 I’m currently learning in **The Odin Project**
 
 - 👯 I’m looking to collaborate on **The Odin Project**
 
@@ -13,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-I am From Indonesia, I have experience with HTML and CSS in 2 years and I am have experience with javascript about one years and I have a lot of portfolio and you can see on my github reppositories and now I currently learning on the odin project and I am also learning React mongodb, node js, express js now.
+I am From Indonesia, I have experience with HTML and CSS for 2 years and I am have experience with javascript about one years and I have a lot of portfolio and you can see on my github reppositories and now I currently learning on the odin project and I am also learning React mongodb, node js, express js now.
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-aljufri" alt="muhammad-aljufri" /></a> </p>
 
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?muhammad-2022
+=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 - 🌱 I’m currently learning in **The Oding Project**
 
 - 👯 I’m looking to collaborate on **The Odin Project**

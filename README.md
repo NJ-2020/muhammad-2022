@@ -16,10 +16,10 @@ I am From Indonesia, I have experience with HTML and CSS in 2 years and I am hav
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/muhammad-aljufri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammad-aljufri" height="30" width="40" /></a>
-<a href="https://dev.to/muhammadaljufri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhammadaljufri" height="30" width="40" /></a>
+<a href="https://codepen.io/muhammad-2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammad-aljufri" height="30" width="40" /></a>
+<a href="https://dev.to/muhammad2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhammadaljufri" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16574637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16574637" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammadaljufri113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadaljufri113" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammad2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadaljufri113" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Muhammad_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyid muhammad a" height="30" width="40" /></a>
 </p>
 

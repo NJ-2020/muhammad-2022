@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Muhammad</h1>
-<h3>I am a Full Stack Engineer</h3>
+<h3>A Full Stack Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-aljufri" alt="muhammad-aljufri" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-I am From Indonesia, I have experience with HTML and CSS in 2 years and I am have experience with javascript about one years and I have a lot of portfolio and you can see on my github reppositories and now I currently learning on the odin project and I am also learning React mongodb, node js, expressjs now.
+I am From Indonesia, I have experience with HTML and CSS in 2 years and I am have experience with javascript about one years and I have a lot of portfolio and you can see on my github reppositories and now I currently learning on the odin project and I am also learning React mongodb, node js, express js now.
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

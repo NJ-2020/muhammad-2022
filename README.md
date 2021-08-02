@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-I am From Indonesia, I am a Web Devoloper I have experience with HTML and CSS in 2 years and I am have experience with javascript about one years and I have a lot of portfolio If you want to see you click this link Checkout My Portfolio.
+I am From Indonesia, I have experience with HTML and CSS in 2 years and I am have experience with javascript about one years and I have a lot of portfolio and you can see on my github reppositories and now I currently learning on the odin project and I am also learning React mongodb, node js, expressjs now.
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

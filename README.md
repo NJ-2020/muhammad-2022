@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Muhammad</h1>
 <h3>A Full Stack Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-aljufri" alt="muhammad-aljufri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-2022" alt="muhammad-aljufri" /></a> </p>
 
 - 🌱 I’m currently learning in **The Odin Project**
 

@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-I am From Indonesia, I have experience with HTML and CSS for 2 years and I am have experience with javascript about one years and I have a lot of portfolio and you can see on my github reppositories and now I currently learning on the odin project and I am also learning React mongodb, node js, express js now.
+I'm From Indonesia, I have experience with HTML and CSS for 2 years and I'm have experience with javascript about one years and I have a lot of portfolio. You can see on my project on my github. And now I'm currently learning on The Odin Project and FreeCodecamp and I'm also now learning React mongodb, node js, express js now.
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

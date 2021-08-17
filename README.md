@@ -30,4 +30,4 @@ I'm From Indonesia, I have experience with HTML and CSS for 2 years and I'm have
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muhammad-2022&show_icons=true&locale=en" alt="muhammad-aljufri" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-2022&" alt="muhammad-aljufri" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NJ-2020&" alt="muhammad-aljufri" /></p>
